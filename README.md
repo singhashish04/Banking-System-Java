@@ -16,7 +16,7 @@ The Banking Management System is a web-based application designed to manage core
 ## Technology Stack
 - Frontend: HTML, CSS, JavaScript, React  
 - Backend: Java, Spring Boot  
-- Database: MySQL  
+- Database: MySQL 
 - Tools: Maven, Git, Postman  
 
 ## Modules
@@ -27,9 +27,7 @@ The Banking Management System is a web-based application designed to manage core
 - Security Module  
 
 ## System Requirements
-- Java 8 or Above  
-- MySQL Server  
-- Any Modern Web Browser  
+- Java 8 or Above    
 - IDE (IntelliJ / Eclipse / VS Code) 
 
 ## Future Enhancements
