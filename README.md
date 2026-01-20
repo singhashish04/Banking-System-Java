@@ -30,15 +30,7 @@ The Banking Management System is a web-based application designed to manage core
 - Java 8 or Above  
 - MySQL Server  
 - Any Modern Web Browser  
-- IDE (IntelliJ / Eclipse / VS Code)
-
-## Installation Steps
-1. Clone the repository  
-2. Import the project into IDE  
-3. Configure database in `application.properties`  
-4. Run the SQL scripts  
-5. Start the Spring Boot application  
-6. Open browser and visit: http://localhost:8080  
+- IDE (IntelliJ / Eclipse / VS Code) 
 
 ## Future Enhancements
 - Mobile Banking Support  
